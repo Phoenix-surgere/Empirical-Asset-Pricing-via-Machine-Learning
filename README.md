@@ -1,2 +1,4 @@
 # My-Undergrad-Dissertation
-This repository is meant to display my (completed) undergraduate Dissertation, conducted while I was an Economics student at Athens University of Economics and Business, Greece.
+This repository is meant to display my (completed) undergraduate Dissertation, conducted while I was an Economics student at Athens University of Economics and Business, in Greece. In short, it is a comparative analysis of various algorithms, mainly of the machine learning variety, in the task of predicting the daily prices of a portfolio of stocks closely resembling the S&P500 Index. 
+
+It aims to give me some much needed practice with applied Artificial Intelligence methods, namely ML and DL, methods unfortunately  sorely entirely missing from my curriculum, in order to hone my skills in the area and effectively demonstrate my interest in the field, especially in an academic environment, thus improving my profile as a prospective MSc candidate. Plus, it is endlessly fascinating!
